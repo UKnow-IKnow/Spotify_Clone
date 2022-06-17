@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/circle_drawable.xml" value="0.151" />
         <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_home.xml" value="0.151" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_image.xml" value="0.152" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_music.xml" value="0.151" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_pause.xml" value="0.151" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_play.xml" value="0.151" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_playlist.xml" value="0.151" />
+        <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/drawable/ic_search.xml" value="0.151" />
         <entry key="..\:/Android Project/Spotify_Clone/app/src/main/res/layout/activity_main.xml" value="0.14114583333333333" />
       </map>
     </option>
