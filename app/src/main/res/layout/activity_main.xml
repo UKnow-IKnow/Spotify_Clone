@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/rootLayout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-
-    >
+    android:layout_height="match_parent">
 
     <FrameLayout
         android:id="@+id/flFragmentContainer"
@@ -51,7 +49,6 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:background="@color/darkBackground"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
